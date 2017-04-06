@@ -1,0 +1,5 @@
+C:\JOLLEC\SI4\SolutionBanqueroute\libBanque\bin\Debug\libBanque.dll
+C:\JOLLEC\SI4\SolutionBanqueroute\libBanque\bin\Debug\libBanque.pdb
+C:\JOLLEC\SI4\SolutionBanqueroute\libBanque\obj\Debug\libBanque.csprojResolveAssemblyReference.cache
+C:\JOLLEC\SI4\SolutionBanqueroute\libBanque\obj\Debug\libBanque.dll
+C:\JOLLEC\SI4\SolutionBanqueroute\libBanque\obj\Debug\libBanque.pdb

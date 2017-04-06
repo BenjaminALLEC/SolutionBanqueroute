@@ -1,0 +1,10 @@
+C:\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe.config
+C:\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe
+C:\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\bin\Debug\AppConsoleBanque.pdb
+C:\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+C:\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb
+C:\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Google Drive\Organisation\trier\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe.config
+C:\Users\Benjamin\Google Drive\Organisation\trier\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+C:\Users\Benjamin\Google Drive\Organisation\trier\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb
+C:\Users\Benjamin\Google Drive\Organisation\trier\JOLLEC\SI4\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.csprojResolveAssemblyReference.cache
